@@ -14,11 +14,11 @@ The measured values are sent to the Blynk 2.0 application, where they are displa
 - **Load (e.g., Bulb, Fan, etc.)**
 
 ## 📡 Features
-✅ Measures **Voltage, Current, Power, and Energy Consumption**  
-✅ Sends real-time data to **Blynk 2.0 Dashboard**  
-✅ Stores energy data in **EEPROM** to prevent data loss  
-✅ **Remote Monitoring** of electricity usage via smartphone  
-✅ Helps in **Power Optimization & Energy Management**  
+Measures **Voltage, Current, Power, and Energy Consumption**  
+Sends real-time data to **Blynk 2.0 Dashboard**  
+Stores energy data in **EEPROM** to prevent data loss  
+**Remote Monitoring** of electricity usage via smartphone  
+Helps in **Power Optimization & Energy Management**  
 
 ## 📜 How to Use
 1. **Set up Blynk 2.0** and create a new project. Obtain the **Auth Token**.
