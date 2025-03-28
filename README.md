@@ -37,7 +37,9 @@ Helps in **Power Optimization & Energy Management**
 The complete source code for this project can be found in this repository under `main.ino`.
 
 ## 📷 Screenshots
-*(Attach or link to Blynk dashboard screenshots here)*
+website built using react
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/de045062-5173-4f67-b5de-49d4dc89894f" />
+
 
 ## 📌 License
 This project is open-source and available for educational and personal use. Feel free to modify and enhance it!
