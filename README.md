@@ -29,7 +29,8 @@ Helps in **Power Optimization & Energy Management**
 6. **Monitor the live readings** on the Blynk 2.0 Dashboard.
 
 ## 🛠 Circuit Diagram
-![Uploading image.png…]()
+
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/5d24f756-9959-46ba-98c6-4a1d18324595" />
 
 
 ## 📝 Source Code
